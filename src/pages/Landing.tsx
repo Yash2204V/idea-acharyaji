@@ -412,19 +412,19 @@ export default function Component() {
                 Repository of Wisdom Content
               </h1>
               <div className="flex h-[500px] w-full flex-col gap-4 lg:h-[250px] lg:flex-row justify-center items-center text-center mt-2">
-                <div className="rounded-xl bg-white py-9 w-[85%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-4xl shadow-2xl">
+                <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
                   <div className="font-bold text-[#cd4628]">150 Books+</div>
                   <div className="text-2xl md:text-4xl">
                     On Life Topics & Scriptures
                   </div>
                 </div>
-                <div className="rounded-xl bg-white py-9 w-[85%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-4xl shadow-2xl">
+                <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
                   <div className="font-bold text-[#cd4628]">
                     10,000 Articles+
                   </div>
                   <div className="text-2xl md:text-4xl">Available for Free</div>
                 </div>
-                <div className="rounded-xl bg-white py-9 w-[85%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-4xl shadow-2xl">
+                <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
                   <div className="font-bold text-[#cd4628]">16,500 Videos</div>
                   <div className="text-2xl md:text-4xl">Available for Free</div>
                 </div>
