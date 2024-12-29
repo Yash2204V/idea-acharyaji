@@ -414,8 +414,9 @@ export default function Component() {
               <div className="flex h-[500px] w-full flex-col gap-4 lg:h-[250px] lg:flex-row justify-center items-center text-center mt-2">
                 <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
                   <div className="font-bold text-[#cd4628]">150 Books+</div>
-                  <div className="text-2xl md:text-4xl">
+                  <div className="text-2xl md:text-4xl"> On Life Topics
                     <span className="md:hidden"><br /></span> & Scriptures
+                  </div>
                 </div>
                 <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
                   <div className="font-bold text-[#cd4628]">
