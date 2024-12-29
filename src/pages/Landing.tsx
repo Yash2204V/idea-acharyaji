@@ -415,7 +415,7 @@ export default function Component() {
                 <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
                   <div className="font-bold text-[#cd4628]">150 Books+</div>
                   <div className="text-2xl md:text-4xl">
-                    On Life Topics & Scriptures
+                    On Life Topics <br /> & Scriptures
                   </div>
                 </div>
                 <div className="rounded-xl bg-white py-9 w-[95%] h-[150px] md:w-[33%] cursor-pointer flex-col items-center justify-center whitespace-nowrap text-2xl md:text-4xl shadow-2xl">
